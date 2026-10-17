@@ -7,6 +7,7 @@ import { QuoteProvider } from '../contexts/QuoteContext';
 import { Navbar } from '../components/layout/Navbar';
 import { Footer } from '../components/layout/Footer';
 import { FloatingContact } from '../components/layout/FloatingContact';
+import { InitialPreloader } from '../components/layout/InitialPreloader';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -42,6 +43,7 @@ export default function RootLayout({
       <body className="min-h-screen w-full flex flex-col bg-[#0A0A0A] text-[#FAFAFA] selection:bg-[#FACC15] selection:text-black font-sans antialiased">
         <StoreProvider>
           <QuoteProvider>
+            <InitialPreloader />
             <Navbar />
             <div className="flex-1">
               {children}
