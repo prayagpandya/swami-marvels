@@ -1,0 +1,2747 @@
+[
+  {
+    "id": "prod-ac-001",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-001",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-002",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-002",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-003",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-003",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-004",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-004",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-005",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-005",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-006",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-006",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-007",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-007",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-008",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-008",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-009",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-009",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-010",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-010",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-011",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-011",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-012",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-012",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-013",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 20.0 mm",
+    "code": "SM-AC-013",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "20.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-014",
+    "name": "AcryGlo Transparent Virgin Cast Acrylic Sheet - 25.0 mm",
+    "code": "SM-AC-014",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-transparent-virgin-cast",
+    "thickness": "25.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-015",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-015",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-016",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-016",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-017",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-017",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-018",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-018",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-019",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-019",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-020",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-020",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-021",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-021",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-022",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-022",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-023",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-023",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-024",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-024",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-025",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-025",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-026",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-026",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-027",
+    "name": "AcryGlo Milky White Cast Acrylic Sheet - 20.0 mm",
+    "code": "SM-AC-027",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-milky-white-cast",
+    "thickness": "20.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-028",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-028",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-029",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-029",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-030",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-030",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-031",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-031",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-032",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-032",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-033",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-033",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-034",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-034",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-035",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-035",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-036",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-036",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-037",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-037",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-038",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-038",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-039",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-039",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-040",
+    "name": "AcryGlo Black Cast Acrylic Sheet - 20.0 mm",
+    "code": "SM-AC-040",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-black-cast",
+    "thickness": "20.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-041",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-041",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-042",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-042",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-043",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-043",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-044",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-044",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-045",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-045",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-046",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-046",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-047",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-047",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-048",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-048",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-049",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-049",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-050",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-050",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-051",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-051",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-052",
+    "name": "Opal White Virgin Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-052",
+    "category": "acrylic-sheets",
+    "subcategory": "opal-white-virgin-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-053",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-053",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-054",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-054",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-055",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-055",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-056",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-056",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-057",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-057",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-058",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-058",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-059",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-059",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-060",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-060",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-061",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-061",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-062",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-062",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-063",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-063",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-064",
+    "name": "Milky White Virgin Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-064",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-virgin-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-065",
+    "name": "Black Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-065",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-066",
+    "name": "Black Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-066",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-067",
+    "name": "Black Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-067",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-068",
+    "name": "Black Virgin Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-068",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-069",
+    "name": "Black Virgin Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-069",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-070",
+    "name": "Black Virgin Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-070",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-071",
+    "name": "Black Virgin Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-071",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-072",
+    "name": "Black Virgin Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-072",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-073",
+    "name": "Black Virgin Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-073",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-074",
+    "name": "Black Virgin Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-074",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-075",
+    "name": "Black Virgin Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-075",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-076",
+    "name": "Black Virgin Cast Acrylic Sheet - 18.0 mm",
+    "code": "SM-AC-076",
+    "category": "acrylic-sheets",
+    "subcategory": "black-virgin-cast",
+    "thickness": "18.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-077",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-077",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-078",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-078",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-079",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-079",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-080",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-080",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-081",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-081",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-082",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-082",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-083",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-083",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-084",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-084",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-085",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-085",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-086",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-086",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-087",
+    "name": "AcryGlo Opal White Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-087",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-opal-white-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-088",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-088",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-089",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-089",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-090",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-090",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-091",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 3.0 mm",
+    "code": "SM-AC-091",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-092",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 4.0 mm",
+    "code": "SM-AC-092",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "4.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-093",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 5.0 mm",
+    "code": "SM-AC-093",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "5.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-094",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 6.0 mm",
+    "code": "SM-AC-094",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "6.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-095",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 8.0 mm",
+    "code": "SM-AC-095",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "8.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-096",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 10.0 mm",
+    "code": "SM-AC-096",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "10.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-097",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 12.0 mm",
+    "code": "SM-AC-097",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "12.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-098",
+    "name": "Transparent Virgin Cast Acrylic Sheet - 15.0 mm",
+    "code": "SM-AC-098",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-virgin-cast",
+    "thickness": "15.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-099",
+    "name": "Blue Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-099",
+    "category": "acrylic-sheets",
+    "subcategory": "blue-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-100",
+    "name": "Blue Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-100",
+    "category": "acrylic-sheets",
+    "subcategory": "blue-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-101",
+    "name": "Blue Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-101",
+    "category": "acrylic-sheets",
+    "subcategory": "blue-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-102",
+    "name": "Red Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-102",
+    "category": "acrylic-sheets",
+    "subcategory": "red-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-103",
+    "name": "Red Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-103",
+    "category": "acrylic-sheets",
+    "subcategory": "red-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-104",
+    "name": "Red Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-104",
+    "category": "acrylic-sheets",
+    "subcategory": "red-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-105",
+    "name": "Orange Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-105",
+    "category": "acrylic-sheets",
+    "subcategory": "orange-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-106",
+    "name": "Orange Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-106",
+    "category": "acrylic-sheets",
+    "subcategory": "orange-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-107",
+    "name": "Orange Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-107",
+    "category": "acrylic-sheets",
+    "subcategory": "orange-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-108",
+    "name": "Lemon Yellow Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-108",
+    "category": "acrylic-sheets",
+    "subcategory": "lemon-yellow-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-109",
+    "name": "Lemon Yellow Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-109",
+    "category": "acrylic-sheets",
+    "subcategory": "lemon-yellow-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-110",
+    "name": "Lemon Yellow Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-110",
+    "category": "acrylic-sheets",
+    "subcategory": "lemon-yellow-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-111",
+    "name": "Mango Yellow Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-111",
+    "category": "acrylic-sheets",
+    "subcategory": "mango-yellow-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-112",
+    "name": "Mango Yellow Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-112",
+    "category": "acrylic-sheets",
+    "subcategory": "mango-yellow-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-113",
+    "name": "Mango Yellow Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-113",
+    "category": "acrylic-sheets",
+    "subcategory": "mango-yellow-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-114",
+    "name": "Green Virgin Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-114",
+    "category": "acrylic-sheets",
+    "subcategory": "green-virgin-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-115",
+    "name": "Green Virgin Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-115",
+    "category": "acrylic-sheets",
+    "subcategory": "green-virgin-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-116",
+    "name": "Green Virgin Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-116",
+    "category": "acrylic-sheets",
+    "subcategory": "green-virgin-cast",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-117",
+    "name": "AcryGlo Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-117",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-cast-acrylic-sheets",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-118",
+    "name": "AcryGlo Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-118",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-cast-acrylic-sheets",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-119",
+    "name": "AcryGlo Cast Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-119",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-cast-acrylic-sheets",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-120",
+    "name": "AcryGlo Green Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-120",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-green-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-121",
+    "name": "AcryGlo Green Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-121",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-green-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-122",
+    "name": "AcryGlo Red Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-122",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-red-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-123",
+    "name": "AcryGlo Red Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-123",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-red-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-124",
+    "name": "AcryGlo Blue Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-124",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-blue-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-125",
+    "name": "AcryGlo Blue Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-125",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-blue-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-126",
+    "name": "AcryGlo Yellow Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-126",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-yellow-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-127",
+    "name": "AcryGlo Yellow Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-127",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-yellow-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-128",
+    "name": "1.8mm AcryGlo Orange Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-128",
+    "category": "acrylic-sheets",
+    "subcategory": "1-8mm-acryglo-orange-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-129",
+    "name": "1.8mm AcryGlo Orange Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-129",
+    "category": "acrylic-sheets",
+    "subcategory": "1-8mm-acryglo-orange-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-130",
+    "name": "Acryglo Matt Clear Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-130",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-matt-clear-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-131",
+    "name": "Acryglo Matt Clear Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-131",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-matt-clear-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-132",
+    "name": "Acryglo Matt Black Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-132",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-matt-black-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-133",
+    "name": "Acryglo Matt Black Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-133",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-matt-black-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-134",
+    "name": "AcryGlo Brown Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-134",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-brown-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-135",
+    "name": "AcryGlo Brown Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-135",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-brown-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-136",
+    "name": "AcryGlo Grey Cast Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-136",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-grey-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-137",
+    "name": "AcryGlo Grey Cast Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-137",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-grey-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-138",
+    "name": "AcryGlo Sky Blue Cast Acrylic Sheet Sheet - 1.5 mm",
+    "code": "SM-AC-138",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-sky-blue-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-139",
+    "name": "AcryGlo Sky Blue Cast Acrylic Sheet Sheet - 2.0 mm",
+    "code": "SM-AC-139",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-sky-blue-cast",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-140",
+    "name": "Acryglo Matt Milky White Cast Acrylic Sheets",
+    "code": "SM-AC-140",
+    "category": "acrylic-sheets",
+    "subcategory": "acryglo-matt-milky-white-cast",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-141",
+    "name": "Acrylic  With Adhesive Sheet - 1.5 mm",
+    "code": "SM-AC-141",
+    "category": "acrylic-sheets",
+    "subcategory": "acrylic-sheets-with-adhesive",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-142",
+    "name": "Acrylic  With Adhesive Sheet - 2.0 mm",
+    "code": "SM-AC-142",
+    "category": "acrylic-sheets",
+    "subcategory": "acrylic-sheets-with-adhesive",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-143",
+    "name": "Acrylic  With Adhesive Sheet - 2.5 mm",
+    "code": "SM-AC-143",
+    "category": "acrylic-sheets",
+    "subcategory": "acrylic-sheets-with-adhesive",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-144",
+    "name": "Acrylic  With Adhesive Sheet - 3.0 mm",
+    "code": "SM-AC-144",
+    "category": "acrylic-sheets",
+    "subcategory": "acrylic-sheets-with-adhesive",
+    "thickness": "3.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-145",
+    "name": "Gold Mirror Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-145",
+    "category": "acrylic-sheets",
+    "subcategory": "gold-mirror-acrylic-sheets",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-146",
+    "name": "Gold Mirror Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-146",
+    "category": "acrylic-sheets",
+    "subcategory": "gold-mirror-acrylic-sheets",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-147",
+    "name": "Gold Mirror Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-147",
+    "category": "acrylic-sheets",
+    "subcategory": "gold-mirror-acrylic-sheets",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-148",
+    "name": "Rose Mirror Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-148",
+    "category": "acrylic-sheets",
+    "subcategory": "rose-mirror-acrylic-sheets",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-149",
+    "name": "Rose Mirror Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-149",
+    "category": "acrylic-sheets",
+    "subcategory": "rose-mirror-acrylic-sheets",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-150",
+    "name": "Rose Mirror Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-150",
+    "category": "acrylic-sheets",
+    "subcategory": "rose-mirror-acrylic-sheets",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-151",
+    "name": "Copper Mirror Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-151",
+    "category": "acrylic-sheets",
+    "subcategory": "copper-mirror-acrylic-sheets",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-152",
+    "name": "Copper Mirror Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-152",
+    "category": "acrylic-sheets",
+    "subcategory": "copper-mirror-acrylic-sheets",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-153",
+    "name": "Copper Mirror Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-153",
+    "category": "acrylic-sheets",
+    "subcategory": "copper-mirror-acrylic-sheets",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-154",
+    "name": "Silver Mirror Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-154",
+    "category": "acrylic-sheets",
+    "subcategory": "silver-mirror-acrylic-sheets",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-155",
+    "name": "Silver Mirror Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-155",
+    "category": "acrylic-sheets",
+    "subcategory": "silver-mirror-acrylic-sheets",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-156",
+    "name": "Silver Mirror Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-156",
+    "category": "acrylic-sheets",
+    "subcategory": "silver-mirror-acrylic-sheets",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-157",
+    "name": "Milky White Extruded Acrylic Sheet - 1.5 mm",
+    "code": "SM-AC-157",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-extruded-acrylic",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-158",
+    "name": "Milky White Extruded Acrylic Sheet - 2.0 mm",
+    "code": "SM-AC-158",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-extruded-acrylic",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-159",
+    "name": "Milky White Extruded Acrylic Sheet - 2.5 mm",
+    "code": "SM-AC-159",
+    "category": "acrylic-sheets",
+    "subcategory": "milky-white-extruded-acrylic",
+    "thickness": "2.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-160",
+    "name": "Acrylic Sheet Sheet - 1.5 mm",
+    "code": "SM-AC-160",
+    "category": "acrylic-sheets",
+    "subcategory": "general-acrylic-sheet",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-161",
+    "name": "Acrylic Sheet Sheet - 2.0 mm",
+    "code": "SM-AC-161",
+    "category": "acrylic-sheets",
+    "subcategory": "general-acrylic-sheet",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-162",
+    "name": "Transparent Extruded Acrylic Sheet Sheet - 1.5 mm",
+    "code": "SM-AC-162",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-extruded-acrylic",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-163",
+    "name": "Transparent Extruded Acrylic Sheet Sheet - 2.0 mm",
+    "code": "SM-AC-163",
+    "category": "acrylic-sheets",
+    "subcategory": "transparent-extruded-acrylic",
+    "thickness": "2.0 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-ac-164",
+    "name": "Black Extruded Acrylic Sheets",
+    "code": "SM-AC-164",
+    "category": "acrylic-sheets",
+    "subcategory": "black-extruded-acrylic",
+    "thickness": "1.5 mm",
+    "material": "100% Virgin Cast PMMA (Acrylic)"
+  },
+  {
+    "id": "prod-pvc-001",
+    "name": "White PVC Foam Board Sheet - 1.0 mm",
+    "code": "SM-PVC-001",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-002",
+    "name": "White PVC Foam Board Sheet - 2.0 mm",
+    "code": "SM-PVC-002",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-003",
+    "name": "White PVC Foam Board Sheet - 3.0 mm",
+    "code": "SM-PVC-003",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-004",
+    "name": "White PVC Foam Board Sheet - 4.0 mm",
+    "code": "SM-PVC-004",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-005",
+    "name": "White PVC Foam Board Sheet - 5.0 mm",
+    "code": "SM-PVC-005",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "5.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-006",
+    "name": "White PVC Foam Board Sheet - 6.0 mm",
+    "code": "SM-PVC-006",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "6.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-007",
+    "name": "White PVC Foam Board Sheet - 8.0 mm",
+    "code": "SM-PVC-007",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "8.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-008",
+    "name": "White PVC Foam Board Sheet - 10.0 mm",
+    "code": "SM-PVC-008",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "10.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-009",
+    "name": "White PVC Foam Board Sheet - 12.0 mm",
+    "code": "SM-PVC-009",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "12.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-010",
+    "name": "White PVC Foam Board Sheet - 15.0 mm",
+    "code": "SM-PVC-010",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "15.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-011",
+    "name": "White PVC Foam Board Sheet - 17.0 mm",
+    "code": "SM-PVC-011",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "17.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-012",
+    "name": "White PVC Foam Board Sheet - 18.0 mm",
+    "code": "SM-PVC-012",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "18.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-013",
+    "name": "White PVC Foam Board Sheet - 19.0 mm",
+    "code": "SM-PVC-013",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "19.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-014",
+    "name": "White PVC Foam Board Sheet - 20.0 mm",
+    "code": "SM-PVC-014",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "20.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-015",
+    "name": "White PVC Foam Board Sheet - 22.0 mm",
+    "code": "SM-PVC-015",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "22.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-016",
+    "name": "White PVC Foam Board Sheet - 24.0 mm",
+    "code": "SM-PVC-016",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "24.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-017",
+    "name": "White PVC Foam Board Sheet - 25.0 mm",
+    "code": "SM-PVC-017",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "25.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-018",
+    "name": "White PVC Foam Board Sheet - 28.0 mm",
+    "code": "SM-PVC-018",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "28.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-019",
+    "name": "White PVC Foam Board Sheet - 30.0 mm",
+    "code": "SM-PVC-019",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "30.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-020",
+    "name": "White PVC Foam Board Sheet - 35.0 mm",
+    "code": "SM-PVC-020",
+    "category": "pvc-sheets-boards",
+    "subcategory": "white-pvc-foam-board",
+    "thickness": "35.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-021",
+    "name": "Transparent Rigid PVC Sheet - 1.0 mm",
+    "code": "SM-PVC-021",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-022",
+    "name": "Transparent Rigid PVC Sheet - 2.0 mm",
+    "code": "SM-PVC-022",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-023",
+    "name": "Transparent Rigid PVC Sheet - 3.0 mm",
+    "code": "SM-PVC-023",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-024",
+    "name": "Transparent Rigid PVC Sheet - 4.0 mm",
+    "code": "SM-PVC-024",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-025",
+    "name": "Transparent Rigid PVC Sheet - 5.0 mm",
+    "code": "SM-PVC-025",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "5.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-026",
+    "name": "Transparent Rigid PVC Sheet - 6.0 mm",
+    "code": "SM-PVC-026",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "6.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-027",
+    "name": "Transparent Rigid PVC Sheet - 8.0 mm",
+    "code": "SM-PVC-027",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "8.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-028",
+    "name": "Transparent Rigid PVC Sheet - 10.0 mm",
+    "code": "SM-PVC-028",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "10.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-029",
+    "name": "Transparent Rigid PVC Sheet - 12.0 mm",
+    "code": "SM-PVC-029",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "12.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-030",
+    "name": "Transparent Rigid PVC Sheet - 15.0 mm",
+    "code": "SM-PVC-030",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-rigid-pvc-sheets",
+    "thickness": "15.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-031",
+    "name": "Transparent Flexible PVC Sheet - 1.0 mm",
+    "code": "SM-PVC-031",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-032",
+    "name": "Transparent Flexible PVC Sheet - 2.0 mm",
+    "code": "SM-PVC-032",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-033",
+    "name": "Transparent Flexible PVC Sheet - 3.0 mm",
+    "code": "SM-PVC-033",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-034",
+    "name": "Transparent Flexible PVC Sheet - 4.0 mm",
+    "code": "SM-PVC-034",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-035",
+    "name": "Transparent Flexible PVC Sheet - 5.0 mm",
+    "code": "SM-PVC-035",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "5.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-036",
+    "name": "Transparent Flexible PVC Sheet - 6.0 mm",
+    "code": "SM-PVC-036",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "6.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-037",
+    "name": "Transparent Flexible PVC Sheet - 8.0 mm",
+    "code": "SM-PVC-037",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "8.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-038",
+    "name": "Transparent Flexible PVC Sheet - 10.0 mm",
+    "code": "SM-PVC-038",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "10.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-039",
+    "name": "Transparent Flexible PVC Sheet - 12.0 mm",
+    "code": "SM-PVC-039",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "12.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-040",
+    "name": "Transparent Flexible PVC Sheet - 15.0 mm",
+    "code": "SM-PVC-040",
+    "category": "pvc-sheets-boards",
+    "subcategory": "transparent-flexible-pvc-rolls",
+    "thickness": "15.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-041",
+    "name": "Opaque White Rigid PVC Sheet - 1.0 mm",
+    "code": "SM-PVC-041",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-042",
+    "name": "Opaque White Rigid PVC Sheet - 2.0 mm",
+    "code": "SM-PVC-042",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-043",
+    "name": "Opaque White Rigid PVC Sheet - 3.0 mm",
+    "code": "SM-PVC-043",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-044",
+    "name": "Opaque White Rigid PVC Sheet - 4.0 mm",
+    "code": "SM-PVC-044",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-045",
+    "name": "Opaque White Rigid PVC Sheet - 5.0 mm",
+    "code": "SM-PVC-045",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "5.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-046",
+    "name": "Opaque White Rigid PVC Sheet - 6.0 mm",
+    "code": "SM-PVC-046",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "6.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-047",
+    "name": "Opaque White Rigid PVC Sheet - 8.0 mm",
+    "code": "SM-PVC-047",
+    "category": "pvc-sheets-boards",
+    "subcategory": "opaque-white-rigid-pvc-sheets",
+    "thickness": "8.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-048",
+    "name": "Klassik White PVC Foam Sheet Sheet - 1.0 mm",
+    "code": "SM-PVC-048",
+    "category": "pvc-sheets-boards",
+    "subcategory": "klassik-white-pvc-foam-sheet",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-049",
+    "name": "Klassik White PVC Foam Sheet Sheet - 2.0 mm",
+    "code": "SM-PVC-049",
+    "category": "pvc-sheets-boards",
+    "subcategory": "klassik-white-pvc-foam-sheet",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-050",
+    "name": "Klassik White PVC Foam Sheet Sheet - 3.0 mm",
+    "code": "SM-PVC-050",
+    "category": "pvc-sheets-boards",
+    "subcategory": "klassik-white-pvc-foam-sheet",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-051",
+    "name": "Klassik White PVC Foam Sheet Sheet - 4.0 mm",
+    "code": "SM-PVC-051",
+    "category": "pvc-sheets-boards",
+    "subcategory": "klassik-white-pvc-foam-sheet",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-052",
+    "name": "Klassik White PVC Foam Sheet Sheet - 5.0 mm",
+    "code": "SM-PVC-052",
+    "category": "pvc-sheets-boards",
+    "subcategory": "klassik-white-pvc-foam-sheet",
+    "thickness": "5.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-053",
+    "name": "PVC Sheet Sheet - 1.0 mm",
+    "code": "SM-PVC-053",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-sheet",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-054",
+    "name": "PVC Sheet Sheet - 2.0 mm",
+    "code": "SM-PVC-054",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-sheet",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-055",
+    "name": "PVC Sheet Sheet - 3.0 mm",
+    "code": "SM-PVC-055",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-sheet",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-056",
+    "name": "PVC Sheet Sheet - 4.0 mm",
+    "code": "SM-PVC-056",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-sheet",
+    "thickness": "4.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-057",
+    "name": "Black PVC Foam Board Sheet - 1.0 mm",
+    "code": "SM-PVC-057",
+    "category": "pvc-sheets-boards",
+    "subcategory": "black-pvc-foam-board",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-058",
+    "name": "Black PVC Foam Board Sheet - 2.0 mm",
+    "code": "SM-PVC-058",
+    "category": "pvc-sheets-boards",
+    "subcategory": "black-pvc-foam-board",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-059",
+    "name": "Black PVC Foam Board Sheet - 3.0 mm",
+    "code": "SM-PVC-059",
+    "category": "pvc-sheets-boards",
+    "subcategory": "black-pvc-foam-board",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-060",
+    "name": "Clear Rigid PVC Sheet Sheet - 1.0 mm",
+    "code": "SM-PVC-060",
+    "category": "pvc-sheets-boards",
+    "subcategory": "clear-rigid-pvc-sheet",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-061",
+    "name": "Clear Rigid PVC Sheet Sheet - 2.0 mm",
+    "code": "SM-PVC-061",
+    "category": "pvc-sheets-boards",
+    "subcategory": "clear-rigid-pvc-sheet",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-062",
+    "name": "Clear Rigid PVC Sheet Sheet - 3.0 mm",
+    "code": "SM-PVC-062",
+    "category": "pvc-sheets-boards",
+    "subcategory": "clear-rigid-pvc-sheet",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-063",
+    "name": "PVC Plywood Sheet - 1.0 mm",
+    "code": "SM-PVC-063",
+    "category": "pvc-sheets-boards",
+    "subcategory": "pvc-plywood",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-064",
+    "name": "PVC Plywood Sheet - 2.0 mm",
+    "code": "SM-PVC-064",
+    "category": "pvc-sheets-boards",
+    "subcategory": "pvc-plywood",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-065",
+    "name": "PVC Plywood Sheet - 3.0 mm",
+    "code": "SM-PVC-065",
+    "category": "pvc-sheets-boards",
+    "subcategory": "pvc-plywood",
+    "thickness": "3.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-066",
+    "name": "PVC Strip Curtain Sheet - 1.0 mm",
+    "code": "SM-PVC-066",
+    "category": "pvc-sheets-boards",
+    "subcategory": "pvc-strip-curtain-rolls",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-067",
+    "name": "PVC Strip Curtain Sheet - 2.0 mm",
+    "code": "SM-PVC-067",
+    "category": "pvc-sheets-boards",
+    "subcategory": "pvc-strip-curtain-rolls",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-068",
+    "name": "PVC Board Sheet - 1.0 mm",
+    "code": "SM-PVC-068",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-board",
+    "thickness": "1.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-pvc-069",
+    "name": "PVC Board Sheet - 2.0 mm",
+    "code": "SM-PVC-069",
+    "category": "pvc-sheets-boards",
+    "subcategory": "general-pvc-board",
+    "thickness": "2.0 mm",
+    "material": "Rigid PVC Free-Foam / Celuka Core"
+  },
+  {
+    "id": "prod-wpc-001",
+    "name": "Kwality Wood WPC Sheet Sheet - 5.0 mm",
+    "code": "SM-WPC-001",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-002",
+    "name": "Kwality Wood WPC Sheet Sheet - 6.0 mm",
+    "code": "SM-WPC-002",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-003",
+    "name": "Kwality Wood WPC Sheet Sheet - 8.0 mm",
+    "code": "SM-WPC-003",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "8.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-004",
+    "name": "Kwality Wood WPC Sheet Sheet - 10.0 mm",
+    "code": "SM-WPC-004",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "10.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-005",
+    "name": "Kwality Wood WPC Sheet Sheet - 12.0 mm",
+    "code": "SM-WPC-005",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "12.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-006",
+    "name": "Kwality Wood WPC Sheet Sheet - 15.0 mm",
+    "code": "SM-WPC-006",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "15.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-007",
+    "name": "Kwality Wood WPC Sheet Sheet - 17.0 mm",
+    "code": "SM-WPC-007",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "17.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-008",
+    "name": "Kwality Wood WPC Sheet Sheet - 18.0 mm",
+    "code": "SM-WPC-008",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "18.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-009",
+    "name": "Kwality Wood WPC Sheet Sheet - 20.0 mm",
+    "code": "SM-WPC-009",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "20.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-010",
+    "name": "Kwality Wood WPC Sheet Sheet - 25.0 mm",
+    "code": "SM-WPC-010",
+    "category": "wpc-sheets-boards",
+    "subcategory": "kwality-wood-wpc-sheet",
+    "thickness": "25.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-011",
+    "name": "Strong Board WPC Sheet Sheet - 5.0 mm",
+    "code": "SM-WPC-011",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-012",
+    "name": "Strong Board WPC Sheet Sheet - 6.0 mm",
+    "code": "SM-WPC-012",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-013",
+    "name": "Strong Board WPC Sheet Sheet - 8.0 mm",
+    "code": "SM-WPC-013",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "8.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-014",
+    "name": "Strong Board WPC Sheet Sheet - 10.0 mm",
+    "code": "SM-WPC-014",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "10.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-015",
+    "name": "Strong Board WPC Sheet Sheet - 12.0 mm",
+    "code": "SM-WPC-015",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "12.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-016",
+    "name": "Strong Board WPC Sheet Sheet - 15.0 mm",
+    "code": "SM-WPC-016",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "15.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-017",
+    "name": "Strong Board WPC Sheet Sheet - 17.0 mm",
+    "code": "SM-WPC-017",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "17.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-018",
+    "name": "Strong Board WPC Sheet Sheet - 18.0 mm",
+    "code": "SM-WPC-018",
+    "category": "wpc-sheets-boards",
+    "subcategory": "strong-board-wpc-sheet",
+    "thickness": "18.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-019",
+    "name": "Tuffwood WPC Sheet Sheet - 5.0 mm",
+    "code": "SM-WPC-019",
+    "category": "wpc-sheets-boards",
+    "subcategory": "tuffwood-wpc-sheet",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-020",
+    "name": "Tuffwood WPC Sheet Sheet - 6.0 mm",
+    "code": "SM-WPC-020",
+    "category": "wpc-sheets-boards",
+    "subcategory": "tuffwood-wpc-sheet",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-021",
+    "name": "Tuffwood WPC Sheet Sheet - 8.0 mm",
+    "code": "SM-WPC-021",
+    "category": "wpc-sheets-boards",
+    "subcategory": "tuffwood-wpc-sheet",
+    "thickness": "8.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-022",
+    "name": "Tuffwood WPC Sheet Sheet - 10.0 mm",
+    "code": "SM-WPC-022",
+    "category": "wpc-sheets-boards",
+    "subcategory": "tuffwood-wpc-sheet",
+    "thickness": "10.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-023",
+    "name": "Tuffwood WPC Sheet Sheet - 12.0 mm",
+    "code": "SM-WPC-023",
+    "category": "wpc-sheets-boards",
+    "subcategory": "tuffwood-wpc-sheet",
+    "thickness": "12.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-024",
+    "name": "Woodpecker WPC Sheet Sheet - 5.0 mm",
+    "code": "SM-WPC-024",
+    "category": "wpc-sheets-boards",
+    "subcategory": "woodpecker-wpc-sheet",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-025",
+    "name": "Woodpecker WPC Sheet Sheet - 6.0 mm",
+    "code": "SM-WPC-025",
+    "category": "wpc-sheets-boards",
+    "subcategory": "woodpecker-wpc-sheet",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-026",
+    "name": "Woodpecker WPC Sheet Sheet - 8.0 mm",
+    "code": "SM-WPC-026",
+    "category": "wpc-sheets-boards",
+    "subcategory": "woodpecker-wpc-sheet",
+    "thickness": "8.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-027",
+    "name": "Woodpecker WPC Sheet Sheet - 10.0 mm",
+    "code": "SM-WPC-027",
+    "category": "wpc-sheets-boards",
+    "subcategory": "woodpecker-wpc-sheet",
+    "thickness": "10.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-028",
+    "name": "3 Layer White WPC Board Sheet - 5.0 mm",
+    "code": "SM-WPC-028",
+    "category": "wpc-sheets-boards",
+    "subcategory": "3-layer-white-wpc-board",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-029",
+    "name": "3 Layer White WPC Board Sheet - 6.0 mm",
+    "code": "SM-WPC-029",
+    "category": "wpc-sheets-boards",
+    "subcategory": "3-layer-white-wpc-board",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-030",
+    "name": "Superwood WPC Sheet Sheet - 5.0 mm",
+    "code": "SM-WPC-030",
+    "category": "wpc-sheets-boards",
+    "subcategory": "superwood-wpc-sheet",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-031",
+    "name": "Superwood WPC Sheet Sheet - 6.0 mm",
+    "code": "SM-WPC-031",
+    "category": "wpc-sheets-boards",
+    "subcategory": "superwood-wpc-sheet",
+    "thickness": "6.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-wpc-032",
+    "name": "WPC Plywood",
+    "code": "SM-WPC-032",
+    "category": "wpc-sheets-boards",
+    "subcategory": "wpc-plywood",
+    "thickness": "5.0 mm",
+    "material": "Wood Plastic Composite (Virgin PVC Resin + Wood Flour)"
+  },
+  {
+    "id": "prod-pp-001",
+    "name": "White PP Floor Guard Sheet - 0.8 mm",
+    "code": "SM-PP-001",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-002",
+    "name": "White PP Floor Guard Sheet - 1.0 mm",
+    "code": "SM-PP-002",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-003",
+    "name": "White PP Floor Guard Sheet - 1.5 mm",
+    "code": "SM-PP-003",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-004",
+    "name": "White PP Floor Guard Sheet - 2.0 mm",
+    "code": "SM-PP-004",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-005",
+    "name": "White PP Floor Guard Sheet - 2.5 mm",
+    "code": "SM-PP-005",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "2.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-006",
+    "name": "White PP Floor Guard Sheet - 3.0 mm",
+    "code": "SM-PP-006",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "3.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-007",
+    "name": "White PP Floor Guard Sheet - 4.0 mm",
+    "code": "SM-PP-007",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "4.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-008",
+    "name": "White PP Floor Guard Sheet - 5.0 mm",
+    "code": "SM-PP-008",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-pp-floor-guard-sheets",
+    "thickness": "5.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-009",
+    "name": "White HIPS Sheet - 0.8 mm",
+    "code": "SM-PP-009",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-010",
+    "name": "White HIPS Sheet - 1.0 mm",
+    "code": "SM-PP-010",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-011",
+    "name": "White HIPS Sheet - 1.5 mm",
+    "code": "SM-PP-011",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-012",
+    "name": "White HIPS Sheet - 2.0 mm",
+    "code": "SM-PP-012",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-013",
+    "name": "White HIPS Sheet - 2.5 mm",
+    "code": "SM-PP-013",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "2.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-014",
+    "name": "White HIPS Sheet - 3.0 mm",
+    "code": "SM-PP-014",
+    "category": "pp-hips-apet-other",
+    "subcategory": "white-hips-sheets",
+    "thickness": "3.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-015",
+    "name": "PP Corrugated Printing Sheet - 0.8 mm",
+    "code": "SM-PP-015",
+    "category": "pp-hips-apet-other",
+    "subcategory": "pp-corrugated-printing-sheets",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-016",
+    "name": "PP Corrugated Printing Sheet - 1.0 mm",
+    "code": "SM-PP-016",
+    "category": "pp-hips-apet-other",
+    "subcategory": "pp-corrugated-printing-sheets",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-017",
+    "name": "PP Corrugated Printing Sheet - 1.5 mm",
+    "code": "SM-PP-017",
+    "category": "pp-hips-apet-other",
+    "subcategory": "pp-corrugated-printing-sheets",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-018",
+    "name": "PP Corrugated Printing Sheet - 2.0 mm",
+    "code": "SM-PP-018",
+    "category": "pp-hips-apet-other",
+    "subcategory": "pp-corrugated-printing-sheets",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-019",
+    "name": "PP Corrugated Printing Sheet - 2.5 mm",
+    "code": "SM-PP-019",
+    "category": "pp-hips-apet-other",
+    "subcategory": "pp-corrugated-printing-sheets",
+    "thickness": "2.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-020",
+    "name": "File Clip Sheet - 0.8 mm",
+    "code": "SM-PP-020",
+    "category": "pp-hips-apet-other",
+    "subcategory": "file-clip",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-021",
+    "name": "File Clip Sheet - 1.0 mm",
+    "code": "SM-PP-021",
+    "category": "pp-hips-apet-other",
+    "subcategory": "file-clip",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-022",
+    "name": "File Clip Sheet - 1.5 mm",
+    "code": "SM-PP-022",
+    "category": "pp-hips-apet-other",
+    "subcategory": "file-clip",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-023",
+    "name": "File Clip Sheet - 2.0 mm",
+    "code": "SM-PP-023",
+    "category": "pp-hips-apet-other",
+    "subcategory": "file-clip",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-024",
+    "name": "Transparent APET Sheet - 0.8 mm",
+    "code": "SM-PP-024",
+    "category": "pp-hips-apet-other",
+    "subcategory": "transparent-apet-sheets",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-025",
+    "name": "Transparent APET Sheet - 1.0 mm",
+    "code": "SM-PP-025",
+    "category": "pp-hips-apet-other",
+    "subcategory": "transparent-apet-sheets",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-026",
+    "name": "Transparent APET Sheet - 1.5 mm",
+    "code": "SM-PP-026",
+    "category": "pp-hips-apet-other",
+    "subcategory": "transparent-apet-sheets",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-027",
+    "name": "Transparent APET Sheet - 2.0 mm",
+    "code": "SM-PP-027",
+    "category": "pp-hips-apet-other",
+    "subcategory": "transparent-apet-sheets",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-028",
+    "name": "Stationery PP Sheet Sheet - 0.8 mm",
+    "code": "SM-PP-028",
+    "category": "pp-hips-apet-other",
+    "subcategory": "stationery-pp-sheet",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-029",
+    "name": "Stationery PP Sheet Sheet - 1.0 mm",
+    "code": "SM-PP-029",
+    "category": "pp-hips-apet-other",
+    "subcategory": "stationery-pp-sheet",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-030",
+    "name": "Stationery PP Sheet Sheet - 1.5 mm",
+    "code": "SM-PP-030",
+    "category": "pp-hips-apet-other",
+    "subcategory": "stationery-pp-sheet",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-031",
+    "name": "Stationery PP Sheet Sheet - 2.0 mm",
+    "code": "SM-PP-031",
+    "category": "pp-hips-apet-other",
+    "subcategory": "stationery-pp-sheet",
+    "thickness": "2.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-032",
+    "name": "Roll Up Standee Sheet - 0.8 mm",
+    "code": "SM-PP-032",
+    "category": "pp-hips-apet-other",
+    "subcategory": "roll-up-standee",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-033",
+    "name": "Roll Up Standee Sheet - 1.0 mm",
+    "code": "SM-PP-033",
+    "category": "pp-hips-apet-other",
+    "subcategory": "roll-up-standee",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-034",
+    "name": "Roll Up Standee Sheet - 1.5 mm",
+    "code": "SM-PP-034",
+    "category": "pp-hips-apet-other",
+    "subcategory": "roll-up-standee",
+    "thickness": "1.5 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-035",
+    "name": "Black GI Roll Up Standee Sheet - 0.8 mm",
+    "code": "SM-PP-035",
+    "category": "pp-hips-apet-other",
+    "subcategory": "black-gi-roll-up-standee",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-036",
+    "name": "Black GI Roll Up Standee Sheet - 1.0 mm",
+    "code": "SM-PP-036",
+    "category": "pp-hips-apet-other",
+    "subcategory": "black-gi-roll-up-standee",
+    "thickness": "1.0 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-037",
+    "name": "Polycarbonate Films",
+    "code": "SM-PP-037",
+    "category": "pp-hips-apet-other",
+    "subcategory": "polycarbonate-films",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-038",
+    "name": "Light Diffusion Sheet",
+    "code": "SM-PP-038",
+    "category": "pp-hips-apet-other",
+    "subcategory": "light-diffusion-sheet",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-039",
+    "name": "Flex Banner",
+    "code": "SM-PP-039",
+    "category": "pp-hips-apet-other",
+    "subcategory": "flex-banner",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  },
+  {
+    "id": "prod-pp-040",
+    "name": "New Items",
+    "code": "SM-PP-040",
+    "category": "pp-hips-apet-other",
+    "subcategory": "new-items",
+    "thickness": "0.8 mm",
+    "material": "Polypropylene Copolymer / High Impact Polystyrene / APET"
+  }
+]

@@ -1,26 +1,138 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FFFFFF;
+  --foreground: #09090B;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@theme {
+  --color-brand-black: #09090B;
+  --color-brand-dark: #18181B;
+  --color-brand-surface: #F4F4F5;
+  --color-brand-border: #E4E4E7;
+  --color-brand-border-light: #D4D4D8;
+  --color-brand-white: #FFFFFF;
+  --color-brand-light: #FAFAFA;
+  --color-brand-gray: #71717A;
+  --color-brand-muted: #A1A1AA;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  /* Strategic Logo Yellow Accent */
+  --color-accent-yellow: #FACC15;
+  --color-accent-yellow-hover: #EAB308;
+  --color-accent-yellow-dark: #CA8A04;
+  --color-accent-yellow-tint: rgba(250, 204, 21, 0.15);
+
+  /* Backwards compatibility aliases mapped to light architectural palette */
+  --color-ivory: #FFFFFF;
+  --color-cream: #F8F9FA;
+  --color-sand: #F4F4F5;
+  --color-line: #E4E4E7;
+  --color-stone: #71717A;
+  --color-slate: #52525B;
+  --color-charcoal: #09090B;
+  --color-ink: #18181B;
+  --color-copper: #FACC15;
+  --color-olive: #71717A;
+  --color-clay: #E4E4E7;
+  --color-navy: #09090B;
+
+  --breakpoint-xs: 480px;
+  --max-width-shell: 1320px;
+  --spacing-shell: 1320px;
+
+  --font-display: var(--font-display), "Plus Jakarta Sans", var(--font-sans), Inter, system-ui, -apple-system, sans-serif;
+  --font-sans: var(--font-sans), Inter, system-ui, -apple-system, sans-serif;
+  --font-mono: var(--font-sans), Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  --animate-marquee: marquee 38s linear infinite;
+
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
   }
 }
 
+/* Replace code-like / monospace font globally with simple, clean, decent font */
+.font-mono,
+code,
+kbd,
+samp,
+pre,
+[class*="font-mono"] {
+  font-family: var(--font-sans), Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #FFFFFF;
+  color: #09090B;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: #FACC15 !important;
+  color: #000000 !important;
+}
+
+::-moz-selection {
+  background-color: #FACC15 !important;
+  color: #000000 !important;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Custom styling from swami-marvels-2 index.css */
+.label-xs {
+  font-size: 0.6875rem;
+  line-height: 1;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.hairline {
+  border-color: #27272A;
+}
+
+/* Thin scrollbars for horizontal rails */
+.rail-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #3F3F46 transparent;
+}
+.rail-scroll::-webkit-scrollbar {
+  height: 4px;
+}
+.rail-scroll::-webkit-scrollbar-thumb {
+  background: #3F3F46;
+  border-radius: 9999px;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.border-subtle {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.glow-yellow-sm {
+  box-shadow: 0 0 15px rgba(250, 204, 21, 0.25);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
 }
